@@ -1,0 +1,71 @@
+
+Prevakia
+
+
+(liste non exhaustive)
+
+Toe Joao :
+Moteur physique
+Collisions
+Dessins
+Animation
+Grappin
+Ia ennemi
+Bosse (roll-back)
+Gestion des évenements
+Débeugeur
+
+Niveau 1
+Niveau 4
+
+
+Nicolas Vivien :
+Menu
+Bloques décoratifs
+l'idée de ne pas avoir de saut :)
+Niveau 2
+
+
+Dhennin Lombardot Elouan :
+Rendu
+Dessins
+Optimisation
+Sauvgarde
+Ia ennemi
+Gestion item/inventaire
+Chargement éléments
+Sons
+Menu pause
+Bosse (phase/dialogue)
+Projectile bosse
+Gestion des évenements
+Débeugeur
+Ce générique
+
+Niveau 3
+Niveau 5
+
+
+
+
+
+Merci à Mr Le Mee
+Merci à Mm L'Hostis
+
+Merci à Milio pour la fonction 
+d'affichage de la corde du grappin
+
+Merci à toute la classe de NSI
+
+
+
+Un jeu développer avec amour 
+dans la rage et la dévastation
+
+
+Cherchez les Oeufs de paques
+
+
+
+
+Prevakia, alpha version 1.35
